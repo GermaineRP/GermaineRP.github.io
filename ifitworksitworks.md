@@ -14,7 +14,7 @@
     <img src="Germaine Koo_Design Resume-1.png" width="45%" alt="Resume 1"/>
   </a>
   <a href="Resume_Germaine Koo.pdf">
-    <img src="Resume_Germaine Koo-1.png" width="45%" alt="Resume 2"/>
+    <img src="Resume_Germaine Koo Ming En-1.png" width="45%" alt="Resume 2"/>
   </a>
 </p>
 
