@@ -5,7 +5,7 @@
   #doc1, #doc2 {
     display: inline-block;
     width: 49%;
-    height: 100%;
+    height: 1000;
   }
   /* Makes the iframe fill its container */
   iframe {
