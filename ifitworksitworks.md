@@ -9,17 +9,16 @@
 
 ## 📄 My Resumes
 
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="Germaine Koo_Design Resume.pdf">
-<img src="https://img.shields.io/badge/Resume_1-View_PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Resume 1"/>
-</a>
-</td>
-<td width="50%" align="center">
-<a href="Resume_Germaine Koo.pdf">
-<img src="https://img.shields.io/badge/Resume_2-View_PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Resume 2"/>
-</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="Germaine Koo_Design Resume.pdf">
+    <img src="Germaine Koo_Design Resume.png" width="45%" alt="Resume 1"/>
+  </a>
+  <a href="Resume_Germaine Koo.pdf">
+    <img src="Resume_Germaine Koo.png" width="45%" alt="Resume 2"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="Germaine Koo_Design Resume.pdf">📥 Download Resume 1</a> • 
+  <a href="Resume_Germaine Koo.pdf">📥 Download Resume 2</a>
+</p>
