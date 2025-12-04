@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="Germaine Koo_Design Resume.pdf">
-    <img src="Germaine Koo_Design Resume.png" width="45%" alt="Resume 1"/>
+    <img src="Germaine Koo_Design Resume-1.png" width="45%" alt="Resume 1"/>
   </a>
   <a href="Resume_Germaine Koo.pdf">
-    <img src="Resume_Germaine Koo.png" width="45%" alt="Resume 2"/>
+    <img src="Resume_Germaine Koo-1.png" width="45%" alt="Resume 2"/>
   </a>
 </p>
 
