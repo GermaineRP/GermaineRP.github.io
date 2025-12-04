@@ -10,7 +10,7 @@
   /* Makes the iframe fill its container */
   iframe {
     width: 100%;
-    height: 100%;
+    height: 1000;
     border: none;
   }
 </style>
